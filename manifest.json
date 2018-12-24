@@ -1,0 +1,15 @@
+{
+    "author": "7280ayubihs@gmail.com",
+    "name": "dメニュー Quick Search",
+    "version": "1.0",
+    "permissions": ["contextMenus"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "logo_dmenu.png",
+        "19": "logo_dmenu.png",
+        "48": "logo_dmenu.png"
+    },
+    "manifest_version": 2
+}
